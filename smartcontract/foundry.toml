@@ -1,0 +1,18 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+optimizer = true
+optimizer_runs = 1
+via_ir = true
+gas_limit = 10000000
+evm_version = "paris"
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+
+[rpc_endpoints]
+celo-sepolia = "https://forno.celo-sepolia.celo-testnet.org/"
+celo = "https://forno.celo.org"
+base-sepolia = "https://sepolia.base.org"
+base = "https://mainnet.base.org"
+somnia-dream = "https://dream-rpc.somnia.network"
