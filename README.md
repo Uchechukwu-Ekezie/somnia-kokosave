@@ -33,7 +33,6 @@ Kokosave is a decentralized finance (DeFi) platform that digitizes traditional c
 - Redesigned hero, feature, and CTA sections with deployment stats
 - Dashboard tabs for groups, transactions, and profile management
 - Real-time activity feed powered by Supabase
-- shadcn/ui component system for cohesive theming
 
 ## 🏗️ Architecture
 
