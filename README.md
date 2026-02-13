@@ -12,7 +12,6 @@
 Kokosave is a decentralized finance (DeFi) platform that digitizes traditional community savings practices (known as Ajo, Esusu, Tontine, or Rotating Savings and Credit Associations - ROSCAs) using blockchain technology. Built for African communities and accessible globally, Kokosave enables trustless, transparent, and automated savings group management.
 
 ### Key Features
-
 ✨ **Three Pool Templates with Guided Setup:**
 - **Rotational Savings** – Traditional turn-based payouts with automated reminders and penalties
 - **Target Pool** – Lock contributions until your collective goal or deadline is reached
